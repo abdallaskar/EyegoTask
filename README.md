@@ -15,11 +15,6 @@ A responsive dashboard built with Next.js, React, Tailwind CSS, Redux Toolkit, a
 
 - [Add your recorded demo link here]
 
-## GitHub Repository
-
-- [Add your GitHub repo URL here]
-
----
 
 ## Setup Instructions
 
